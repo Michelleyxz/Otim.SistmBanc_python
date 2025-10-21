@@ -25,7 +25,7 @@ Clone o repositório para sua máquina local:
 
 Bash
 
-git clone [LINK_DO_SEU_REPOSITÓRIO]
+git clone [gh repo clone Michelleyxz/Otim.SistmBanc_python]
 cd sistema-bancario-poo
 Execute o arquivo principal:
 
