@@ -1,4 +1,5 @@
 Sistema Bancário Orientado a Objetos (POO) em Python
+
 Este projeto é a implementação de um sistema bancário simples, focado em demonstrar conceitos avançados de Programação Orientada a Objetos (POO) em Python, como Abstração, Herança, Encapsulamento, Polimorfismo, e padrões de projeto como Decorators para logging e Iterators para navegação.
 
 Funcionalidades
